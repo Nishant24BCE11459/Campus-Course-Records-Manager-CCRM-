@@ -93,7 +93,7 @@ npm test
 
 Nishant Kumar 24BCE11459
 
-- GitHub: [PALKHARE123](https://github.com/Nishant24BCE11459/Campus-Course-Records-Manager-CCRM)
+- GitHub: [Nishant24BCE11459](https://github.com/Nishant24BCE11459/Campus-Course-Records-Manager-CCRM)
 - Email: (nishant.24bce11459@vitbhopal.ac.in)
 
 ---
